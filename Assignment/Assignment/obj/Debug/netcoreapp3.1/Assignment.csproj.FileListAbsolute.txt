@@ -1,0 +1,14 @@
+E:\Practices\Assignment\Assignment\bin\Debug\netcoreapp3.1\Assignment.exe
+E:\Practices\Assignment\Assignment\bin\Debug\netcoreapp3.1\Assignment.deps.json
+E:\Practices\Assignment\Assignment\bin\Debug\netcoreapp3.1\Assignment.runtimeconfig.json
+E:\Practices\Assignment\Assignment\bin\Debug\netcoreapp3.1\Assignment.runtimeconfig.dev.json
+E:\Practices\Assignment\Assignment\bin\Debug\netcoreapp3.1\Assignment.dll
+E:\Practices\Assignment\Assignment\bin\Debug\netcoreapp3.1\Assignment.pdb
+E:\Practices\Assignment\Assignment\obj\Debug\netcoreapp3.1\Assignment.csproj.AssemblyReference.cache
+E:\Practices\Assignment\Assignment\obj\Debug\netcoreapp3.1\Assignment.GeneratedMSBuildEditorConfig.editorconfig
+E:\Practices\Assignment\Assignment\obj\Debug\netcoreapp3.1\Assignment.AssemblyInfoInputs.cache
+E:\Practices\Assignment\Assignment\obj\Debug\netcoreapp3.1\Assignment.AssemblyInfo.cs
+E:\Practices\Assignment\Assignment\obj\Debug\netcoreapp3.1\Assignment.csproj.CoreCompileInputs.cache
+E:\Practices\Assignment\Assignment\obj\Debug\netcoreapp3.1\Assignment.dll
+E:\Practices\Assignment\Assignment\obj\Debug\netcoreapp3.1\Assignment.pdb
+E:\Practices\Assignment\Assignment\obj\Debug\netcoreapp3.1\Assignment.genruntimeconfig.cache

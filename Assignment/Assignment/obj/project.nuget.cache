@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QMuFO/FyXJM1u92sXrrcIhBldMrdu15A13qyjUYqiCNo2y6R8umqCf0w4Eta9sI7lNPtpc5GtJhV/IZa2OXoLQ==",
+  "success": true,
+  "projectFilePath": "E:\\Practices\\Assignment\\Assignment\\Assignment.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ki.shohag\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}
